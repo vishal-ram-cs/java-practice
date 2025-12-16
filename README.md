@@ -9,7 +9,11 @@ I am a Computer Science student learning Java fundamentals and preparing for ope
 - Variables and Data Types
 - Loops and Conditions
 - Basic Logic Programs
-- dsa concepts 
+- Basic DSA concepts
+- Basic OOP concepts
+
+
+
 
 This repository will be updated regularly as I continue learning.
 
